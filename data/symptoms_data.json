@@ -1,0 +1,79 @@
+{
+    "Fever": {
+      "possible_conditions": ["Typhoid Fever", "Dengue", "Malaria", "COVID-19", "Viral Fever", "Tuberculosis", "Subacute Bacterial Endocarditis", "Lymphoma"],
+      "notes": "Consider duration, associated symptoms, travel history."
+    },
+    "Cough": {
+      "possible_conditions": ["Bronchitis", "Tuberculosis", "Pneumonia", "COVID-19", "Asthma", "GERD", "Lung Cancer", "Interstitial Lung Disease"],
+      "notes": "Assess type (dry/productive), duration, and triggers."
+    },
+    "Chest Pain": {
+      "possible_conditions": ["Myocardial Infarction", "Angina", "GERD", "Costochondritis", "Pneumothorax", "Pulmonary Embolism", "Aortic Dissection", "Pericarditis"],
+      "notes": "Important to assess character, radiation, relation to exertion."
+    },
+    "Diarrhoea": {
+      "possible_conditions": ["Infective Gastroenteritis", "IBS", "Ulcerative Colitis", "Food Poisoning", "Cholera", "Giardiasis", "Celiac Disease", "Colon Cancer"],
+      "notes": "Duration, dehydration signs, and travel history are critical."
+    },
+    "Vomiting": {
+      "possible_conditions": ["Gastroenteritis", "Food Poisoning", "Migraine", "Pregnancy", "Raised ICP", "Intestinal Obstruction", "Gastritis", "Acute Hepatitis"],
+      "notes": "Check if associated with headache, abdominal pain, or fever."
+    },
+    "Back Pain": {
+      "possible_conditions": ["Muscle Strain", "Herniated Disc", "Spondylitis", "Spinal TB", "Kidney Stones", "Osteoporosis", "Spinal Tumors", "Ankylosing Spondylitis"],
+      "notes": "Differentiate between mechanical vs inflammatory pain."
+    },
+    "Abdominal Pain": {
+      "possible_conditions": ["Appendicitis", "Gallstones", "Pancreatitis", "IBS", "Peptic Ulcer Disease", "Renal Colic", "Ectopic Pregnancy", "Bowel Obstruction"],
+      "notes": "Location and character of pain are essential for diagnosis."
+    },
+    "Headache": {
+      "possible_conditions": ["Migraine", "Tension Headache", "Cluster Headache", "Meningitis", "Sinusitis", "Hypertension", "Brain Tumor", "Temporal Arteritis"],
+      "notes": "Check for photophobia, nausea, aura, fever."
+    },
+    "Joint Pain": {
+      "possible_conditions": ["Rheumatoid Arthritis", "Osteoarthritis", "Gout", "SLE", "Viral Arthritis", "Septic Arthritis", "Reactive Arthritis", "Psoriatic Arthritis"],
+      "notes": "Symmetry and small vs large joint involvement matter."
+    },
+    "Burning Urination": {
+      "possible_conditions": ["Urinary Tract Infection", "STI", "Kidney Stones", "Interstitial Cystitis", "Dehydration", "Prostatitis", "Bladder Cancer"],
+      "notes": "Check for fever, hematuria, urinary frequency."
+    },
+    "Swelling in Legs": {
+      "possible_conditions": ["Congestive Heart Failure", "DVT", "Nephrotic Syndrome", "Liver Cirrhosis", "Lymphedema", "Hypothyroidism", "Venous Insufficiency"],
+      "notes": "Pitting vs non-pitting, associated systemic signs."
+    },
+    "Weight Loss": {
+      "possible_conditions": ["Cancer", "Tuberculosis", "Hyperthyroidism", "Diabetes Mellitus", "HIV/AIDS", "Depression", "Malabsorption Syndrome", "Anorexia Nervosa"],
+      "notes": "Intentional vs unintentional, appetite status."
+    },
+    "Palpitations": {
+      "possible_conditions": ["Anxiety", "Hyperthyroidism", "Arrhythmia", "Panic Disorder", "Anemia", "Mitral Valve Prolapse", "Pheochromocytoma"],
+      "notes": "Check heart rate, thyroid status, and ECG findings."
+    },
+    "Jaundice": {
+      "possible_conditions": ["Hepatitis", "Hemolysis", "Gallstones", "Pancreatic Cancer", "Liver Cirrhosis", "Drug-Induced Liver Injury"],
+      "notes": "Assess bilirubin levels and liver function tests."
+    },
+    "Hematuria": {
+      "possible_conditions": ["Urinary Tract Infection", "Bladder Cancer", "Kidney Stones", "Glomerulonephritis", "Prostatitis", "Trauma"],
+      "notes": "Determine if gross or microscopic, associated symptoms."
+    },
+    "Facial Puffiness": {
+      "possible_conditions": ["Nephrotic Syndrome", "Hypothyroidism", "Angioedema", "Cushing’s Syndrome", "Allergic Reaction"],
+      "notes": "Look for associated systemic features and timing."
+    },
+    "Facial Droop": {
+      "possible_conditions": ["Stroke", "Bell’s Palsy", "Brain Tumor", "Multiple Sclerosis", "Trauma"],
+      "notes": "Check for forehead involvement and duration."
+    },
+    "Breathlessness": {
+      "possible_conditions": ["Asthma", "COPD", "Pulmonary Embolism", "Heart Failure", "Pneumonia", "Anemia", "Panic Attack"],
+      "notes": "Assess SpO2, onset, and auscultation findings."
+    },
+    "Hoarseness of Voice": {
+      "possible_conditions": ["Laryngitis", "Vocal Cord Polyp", "Thyroid Tumor", "GERD", "Recurrent Laryngeal Nerve Palsy"],
+      "notes": "Duration, history of smoking, and associated cough matter."
+    }
+  }
+  
